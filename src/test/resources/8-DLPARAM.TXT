@@ -1,0 +1,3 @@
+AcquirerID=""
+AddValuePasswordLevel=""
+AddOnPurchaseEnable="1"

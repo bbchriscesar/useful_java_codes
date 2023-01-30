@@ -1,0 +1,4 @@
+ActivationCode="000000000"
+AcquirerID=""
+AddValuePasswordLevel=""
+AddOnPurchaseEnable="1"
